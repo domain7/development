@@ -5,7 +5,7 @@ layout: default
 
 Domain7 Custom Development Lifecycle
 ====================================
-![Figure 1](../images/lifecycle/1.png)
+![Figure 1](/images/lifecycle/1.png)
 
 This document presents a DRAFT Custom Development Lifecycle / Framework for implementation at Domain7.  It is generally understood that Domain7 would benefit from adopting a more standardized and supported custom development approach.  This approach should extend consistently from initial business development / sales activities, through proposal preparation, project execution, and transition to support. 
 
