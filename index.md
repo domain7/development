@@ -1,5 +1,5 @@
 ---
-title: Domain7 Custom Development Lifecycle
+title: Domain7 Custom Development Philosophy
 layout: default
 ---
 
