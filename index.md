@@ -5,6 +5,4 @@ layout: default
 
 # Domain7 Custom Development Processes
 
-<a href="lifecycle">Domain7 Custom Development Lifecycle</a>
-====================================
-
+## <a href="lifecycle/1.html">Domain7 Custom Development Lifecycle</a>
