@@ -5,4 +5,4 @@ layout: default
 
 {% include h1.md %}
 
-## <a href="lifecycle/1.html">Custom Development Lifecycle</a>
+## [Custom Development Lifecycle](lifecycle/1.html)
