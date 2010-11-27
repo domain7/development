@@ -5,4 +5,5 @@ layout: default
 
 {% include h1.md %}
 
-## [Custom Development Lifecycle](lifecycle/1.html)
+* [Custom Development Lifecycle](lifecycle/1.html)
+* [Agile Manifesto](agile_manifesto.html)
