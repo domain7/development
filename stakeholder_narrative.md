@@ -31,3 +31,5 @@ structure and practices, from the overall view down to the day-to-day.
 {% include project_manager.md %}
 
 {% include developer.md %}
+
+{% include designer.md %}
