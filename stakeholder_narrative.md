@@ -9,8 +9,7 @@ gh-filename: stakeholder_narrative.md
 ## The Stakeholder View of our Process
 
 This page describes the various pieces of how Domain7 builds custom web 
-applications,from the point of view of a stakeholder, rather than of a 
-developer.
+applications, from the point of view of a stakeholder.
 
 We'll begin by defining, in very simple terms, the overall philosophy that
 (we believe) makes Domain7's approach to software development work.
