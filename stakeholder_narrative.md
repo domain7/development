@@ -33,3 +33,6 @@ structure and practices, from the overall view down to the day-to-day.
 {% include developer.md %}
 
 {% include designer.md %}
+
+{% include qa.md %}
+
