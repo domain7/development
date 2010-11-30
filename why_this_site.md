@@ -4,6 +4,7 @@ layout: default
 title: Why This Site?
 gh-filename: why_this_site.md
 ---
+{% include references.md %}
 
 # Why This Site?
 
@@ -34,4 +35,3 @@ Feel free to use it as a [starting point](https://github.com/relevance/how_we_wo
 as long as you refer back to us and license it the same way.
 
 {% comment %} No content in references.md, just link label definitions {% endcomment %}
-{% include references.md %}
