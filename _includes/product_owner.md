@@ -1,4 +1,4 @@
-### Project Owner {#product_owner}
+### Product Owner {#product_owner}
 
 The role of the Product Owner is primarily that of a decision maker that protects the quality of the product throughout the project.
 
