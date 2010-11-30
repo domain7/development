@@ -4,7 +4,6 @@ The developer writes code. At Domain7, we do not call out separate "design" or "
 
 Developers employ the following practices:
 
-* ux design
 * pair programming (remote and co-located)
 * behaviour driven development
 * code review
@@ -12,3 +11,5 @@ Developers employ the following practices:
 * audits
 * story delivery
 * code refactoring
+
+At Domain7, developers also collaborate with designers to guide how an application behaves and invokes interaction from users.

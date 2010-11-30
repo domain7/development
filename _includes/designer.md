@@ -5,3 +5,5 @@ The designer directs the way the website looks. They also work closely with deve
 Designers employ the following practices:
 
 * content based design
+
+At Domain7, designers also collaborate with developers to guide how an application behaves and invokes interaction from users.
