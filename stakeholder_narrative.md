@@ -25,3 +25,5 @@ structure and practices, from the overall view down to the day-to-day.
 {% include project_sponsor.md %}
 
 {% include product_owner.md %}
+
+{% include business_analyst.md %}
