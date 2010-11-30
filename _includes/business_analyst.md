@@ -6,5 +6,5 @@ The analyst works with user stories, and must be able to express the
 requirement in terms of objective acceptance criteria.
 
 On some projects, the business analyst is a stakeholder;
-for other projects, one of Developer's developers or the project manager
+for other projects, one of Domain7's developers or the project manager
 takes on this role.
