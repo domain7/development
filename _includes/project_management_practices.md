@@ -40,13 +40,11 @@ for communication built into the structure of the project:
 * user stories document (google docs).
 * and of course, emails and phone calls when things are unclear.
 
-You will read more detail about all of those during the rest of this document.
-
 ### Project Tracking
 
 We use [Pivotal Tracker](http://pivotaltracker.com) as our Project Management repository and living documentation source.
 Requirements are documented as "User Stories" and represented as stories within Pivotal Tracker.
-Each card has a title, a description, and relates to a feature_file, and an estimate of complexity.
+Each card has a title, a description, and relates to a feature file, and an estimate of complexity.
 Comments, changes, and research are all captured directly on the card.
 As we proceed through iterations, cards are pulled in to the iteration as their priority dictates.
 

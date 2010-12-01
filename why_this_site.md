@@ -18,8 +18,8 @@ Documenting the way you work has several benefits:
 * It encourages you to be *intentional* about changes to your process
 
 Additionally, people often ask us about the way we work, and want to know more about it.
-That includes current and prospective [customers](http://thinkrelevance.com/clients),
-employees, and [students](http://thinkrelevance.com/training).
+That includes current and prospective [customers](http://domain7.com/Results.html),
+[personnel](http://domain7.com/Team.html).
 
 We built this site for ourselves, so that we could learn and improve
 through the process of documenting what we do, and how we do it.

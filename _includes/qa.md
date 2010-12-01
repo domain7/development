@@ -1,6 +1,6 @@
 ### Quality Assurance (QA) {#qa}
 
-Quality assurance is a transient role that developers assume as needed to
+Quality assurance is a transient role that developers and product owners assume as needed to
 verify that a completed story meets its acceptance criteria
 before showcasing that story to stakeholders.
 

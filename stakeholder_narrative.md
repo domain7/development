@@ -36,3 +36,79 @@ structure and practices, from the overall view down to the day-to-day.
 
 {% include qa.md %}
 
+{% include project_management_practices.md %}
+
+{% include discretion.md %}
+
+{% include user_stories_and_feature_files.md %}
+
+{% include points.md %}
+
+## Iterations and Stories
+
+The most important concepts in our process are *iterations* (the unit of planning and delivery)
+and *stories* (the unit of estimation, development, and tracking).
+
+{% include iterations.md %}
+
+## Meetings
+
+We try not to spend time in meetings unless the meeting is really
+necessary, but of course some kinds of communication are best done
+in meetings.  These are the kinds of meetings that occur regularly
+on a Relevance project:
+
+{% include daily_standup.md %}
+
+{% include iteration_planning.md %}
+
+{% include technical_debt.md %}
+
+{% comment %}
+
+## Processes we need to address
+
+{% include pm_buddy.md %}
+
+{% include meeting_process.md %}
+
+{% include risk_assessments.md %}
+
+{% include retrospectives.md %}
+
+{% include audits.md %}
+
+{% include project_audit.md %}
+
+{% include performance_audit.md %}
+
+{% include security_audit.md %}
+
+{% include technical_debt.md %}
+
+{% include staging.md %}
+
+{% endcomment %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
