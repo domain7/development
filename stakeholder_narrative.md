@@ -56,7 +56,7 @@ and *stories* (the unit of estimation, development, and tracking).
 We try not to spend time in meetings unless the meeting is really
 necessary, but of course some kinds of communication are best done
 in meetings.  These are the kinds of meetings that occur regularly
-on a Relevance project:
+on a Domain7 project:
 
 {% include daily_standup.md %}
 
