@@ -31,12 +31,12 @@ Planning at the following levels:
 
 Sometimes (often very early in the project) the Product Owner on the Domain7 side may be navigating the risks of user acceptance on behalf of the client. This is not ideal and should be as short lived as possible. 
 
-Reasons it is sometimes necessary to have internal User Acceptance:
+Reasons it is sometimes necessary to have internal user acceptance:
 
 * The current sprints are focussed on getting the application to a sensible, initial user flow
-* The current sprint is a part of a larger Big Story and acceptance of the Big Story will serve as a sufficient USer Acceptance
+* The current sprint is a part of a larger Big Story and acceptance of the Big Story will serve as a sufficient user acceptance
 
-This is base on feedback form our clients, that being involved too much in User Acceptance early in the project was not needed.
+This is base on feedback form our clients, that being involved too much in user acceptance early in the project was not needed.
 
 
 #### A product owner is a:
