@@ -62,6 +62,8 @@ on a Domain7 project:
 
 {% include iteration_planning.md %}
 
+{% include bd.md %}
+
 {% include technical_debt.md %}
 
 {% comment %}
