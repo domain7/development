@@ -23,4 +23,4 @@ Each iteration is preceded by planning. Sometimes this is a "planning sprint". A
 * Layouts
 * UX Guideline Documents
 
-
+By embedding design in the development process we reduce the need to come back and "make this look good". This helps user acceptance by not forcing the product owner to see past design (or lack of design) elements that may change in the future. It also reduces the need for developers to make their own design decisions independent of one another, and possibly not in accordance with the overall design vision.
