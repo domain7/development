@@ -40,16 +40,16 @@ structure and practices, from the overall view down to the day-to-day.
 
 {% include discretion.md %}
 
-{% include user_stories_and_feature_files.md %}
-
-{% include points.md %}
-
 ## Iterations and Stories
 
 The most important concepts in our process are *iterations* (the unit of planning and delivery)
 and *stories* (the unit of estimation, development, and tracking).
 
+{% include points.md %}
+
 {% include iterations.md %}
+
+{% include user_stories_and_feature_files.md %}
 
 ## Meetings
 
