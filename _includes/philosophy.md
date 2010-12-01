@@ -10,10 +10,7 @@ But that really courts the first risk: not delivering anything.
 
 At Domain7, we take a different approach, that can be summed up in three simple rules:
 
-1. We are determined to deliver new business value every single day of the project.
+1. We are comfortable combining planning and iterative processes together
 2. We ask our customers to give us feedback on everything we do,
    as soon as possible after we do it.
    Making adjustments costs very little if we can do it right away.
-3. We want to improve continuously.
-   We ask both ourselves and our customers to do things just a little bit better every day.
-   
