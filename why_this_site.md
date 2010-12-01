@@ -30,8 +30,8 @@ We believe in openness and in "release early, release often".
 As we put the site together we couldn't think of any reason not to make
 it public even though it's still at an early stage.  Feel free to read it and write your own. 
 
-The site is licensed under a Creative Commons [Attribution-Share Alike 3.0 License](/license.html). 
-Feel free to use it as a [starting point](https://github.com/relevance/how_we_work/tree/gh-pages) 
+The site is inspired by the thoughtful, excellent [work](https://github.com/relevance/how_we_work/tree/gh-pages) licensed under a Creative Commons [Attribution-Share Alike 3.0 License](/license.html) done by [Relevance](http://howwework.thinkrelevance.com/)
+Feel free to use it as a [starting point](https://github.com/domain7/development) 
 as long as you refer back to us and license it the same way.
 
 {% comment %} No content in references.md, just link label definitions {% endcomment %}
