@@ -9,9 +9,11 @@ The Product Owner role at Domain7 is fluid throughout the project. It varies bet
 ##### Domain7 or Customer filled role?
 The role ideally resides on the customer side. However, this is not always possible.
 Very early in the project the Product Owner role is sometimes filled by a person on the Domain7 side. The Domain7 Product Owner will primarily focus on product planning and establishing a model for what aspects of the product and project need clear product ownership. 
+
 As the product matures the importance of the Domain7 Product Owner will diminish and instead focus on:
+
 * Informing the customer Product Owner with all the information necessary
-Later in the project they will serve is an advocate for the customer Project Sponsor 
+* Late in the project they will serve is an advocate for the customer product owner 
 
 #### A product owner does:
 
