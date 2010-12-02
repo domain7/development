@@ -1,12 +1,11 @@
 ### Iterations {#iterations}
 
 Domain7 projects are structured in one week iterations.
-For each iteration, a set of stories is selected that we believe can
-be developed during the two weeks.
+For each iteration, a set of stories is selected that we believe can be completed during the iteration.
 Then, during the 5 days of the iteration, those cards will be developed methodically,
 according to the priorities selected by the project sponsor.
 
-As the cards are developed and delivered for the customer, they are accepted by the product owner, ideally within 24 hours of delivery.
+As the user stories are developed and delivered for the customer, they are accepted by the product owner, ideally within 24 hours of delivery.
 
 Finally, if the customer has more requirements and wants to continue the project,
 the next iteration is planned.
