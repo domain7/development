@@ -62,7 +62,7 @@ on a Domain7 project:
 
 {% include iteration_planning.md %}
 
-{% include bd.md %}
+{% include bdd.md %}
 
 {% include technical_debt.md %}
 
