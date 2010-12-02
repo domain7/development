@@ -8,7 +8,7 @@ One way to avoid the second problem is to postpone doing anything
 until you're sure you know what's desired.
 But that really courts the first risk: not delivering anything.
 
-At Domain7, we take a different approach, that can be summed up in three simple rules:
+At Domain7, we address these two risks with these two principles:
 
 1. We are comfortable combining planning and iterative processes together
 2. We ask our customers to give us feedback on everything we do,
