@@ -51,4 +51,4 @@ As we proceed through iterations, cards are pulled in to the iteration as their 
 ### Living Documentation
 
 In addition to user stories and feature files themselves, we also use Google Docs to capture user stories at a high level.
-We use Google Docs to keep documentation about architecture, system design.
+We use Google Docs to keep documentation about system architecture and system design.
