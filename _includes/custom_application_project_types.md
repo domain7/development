@@ -43,7 +43,7 @@ You do not have to be a brand new startup to innovate. We see businesses in indu
 
 * Data Migration
 
-  Move data from a legacy system into a new web based system
+  Move data from a legacy system into a new web based system.
 
   Examples: Eagle West, Benefic
 
@@ -51,17 +51,21 @@ You do not have to be a brand new startup to innovate. We see businesses in indu
 
   Do you have information that could be integrated with other existing or yet-to-be-developed software? An Application Programming Interface can free your data in a safe and secure way, reducing the risks of Vendor lock-in. When done correctly API's can also have value to non-technologists, by showing what information is available within an organization.
 
+  Examples: CLAC Training and Career Services
+
 * Cloud based Website Hosting
 
-  Harnessing the power of cloud based hosting solutions and allow your IT department to do what they do best.
+  Harness the power of cloud based hosting solutions and allow your IT department to do what they do best.
   
 * Concepting and Prototyping
 
+  Examples: Eagle West, KYA
+
 * Mobile Web Applications
 
-  Reaching your clients on the web is quickly meaning more than just the desktop computer. Customers Tablets and smartphones
+  Reaching your clients on the web is quickly meaning more than just the desktop computer bound by latitude and longitude.
 
 * Existing web application re-writes
 
-  Do you need a more agile development experience? Sometimes moving to a more dynamic and agile technology platform is the needed to enable a more agile software development environment.
+  Do you need a more agile development experience? Sometimes moving to a more dynamic and agile technology platform is needed to enable a more agile software development environment. This is a large undertaking, that we have experience in navigating successfully.
 
