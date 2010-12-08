@@ -8,5 +8,5 @@ layout: default
 
 * [Custom Development Lifecycle](lifecycle/1.html)
 * [Stakeholder Narrative](stakeholder_narrative.html)
-* [Types of Custom Applications](custom_application_types.html)
+* [Types of Custom Application Projects](custom_application_project_types.html)
 
