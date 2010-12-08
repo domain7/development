@@ -53,8 +53,8 @@ You do not have to be a brand new startup to innovate. We see businesses in indu
 
 * Cloud based Website Hosting
 
-  Harnessing the power of cloud based hosting solutions and allow your IT department to do what they do best, restart workstations and limit internet access.
-
+  Harnessing the power of cloud based hosting solutions and allow your IT department to do what they do best.
+  
 * Concepting and Prototyping
 
 * Mobile Web Applications
