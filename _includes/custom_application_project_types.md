@@ -27,13 +27,13 @@ You do not have to be a brand new startup to innovate. We see businesses in indu
 
   Examples: Blessings, PN Rail, Eagle West - Crane Tools and Quote App, Falcon, Benefic, CLAC Wellness, Training and Career Services, Carsumer, Sensus, Mystery Shopping, Sensus
 
-* Online Business Initiatives (new business model)
+* Online business initiatives (new business model)
   
   Ssshhhhh... Are you needing to define a market which didn’t previously exist?
   
   Examples: PN Rail, Eagle West - Crane Tools, Benefic, CLAC Training and Career Services, Carsumer, Mystery Shopping
 
-* Systems Integration
+* Systems integration
 
   Connect existing in-use software systems or database to new web applications. 
 
@@ -41,27 +41,27 @@ You do not have to be a brand new startup to innovate. We see businesses in indu
 
   Examples: Eagle West - Crane Tools and Quote App, Benefic, CLAC Wellness, Training and Career Services, Carsumer, Sensus, Mystery Shopping, Sensus
 
-* Data Migration
+* Data migration
 
   Move data from a legacy system into a new web based system.
 
   Examples: Eagle West, Benefic
 
-* API Development
+* API development
 
   Do you have information that could be integrated with other existing or yet-to-be-developed software? An Application Programming Interface can free your data in a safe and secure way, reducing the risks of Vendor lock-in. When done correctly API's can also have value to non-technologists, by showing what information is available within an organization.
 
   Examples: CLAC Training and Career Services
 
-* Cloud based Website Hosting
+* Cloud based website hosting
 
   Harness the power of cloud based hosting solutions and allow your IT department to do what they do best.
   
-* Concepting and Prototyping
+* Concepting and prototyping
 
   Examples: Eagle West, KYA
 
-* Mobile Web Applications
+* Mobile web applications
 
   Reaching your clients on the web is quickly meaning more than just the desktop computer bound by latitude and longitude.
 
