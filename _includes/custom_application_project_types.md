@@ -8,7 +8,7 @@ Do you have a vision for doing something online that you cannot find in the mark
 
 * Funded startups
 
-  Examples: Register4Sports, Fantasy Football, MakeGood, Yurbook, KYA, RoverActive, Falcon
+  Examples: Register4Sports, Fantasy Football, MakeGood, Yurbook, KYA, RoverActive, Falcon, Ron Shore
 
 * Ongoing web application product development
 
@@ -25,7 +25,7 @@ You do not have to be a brand new startup to innovate. We see businesses in indu
 
   Sometimes the innovation is not an earth shattering idea. It is just simply better customer service. Many of our clients have seen the web as the next step in increasing their transparency and communication with their customers and leads.
 
-  Examples: PN Rail, Eagle West - Crane Tools and Quote App, Falcon, Benefic, CLAC Wellness, Training and Career Services, Carsumer, Sensus, Mystery Shopping, Sensus
+  Examples: Blessings, PN Rail, Eagle West - Crane Tools and Quote App, Falcon, Benefic, CLAC Wellness, Training and Career Services, Carsumer, Sensus, Mystery Shopping, Sensus
 
 * Online Business Initiatives (new business model)
   
