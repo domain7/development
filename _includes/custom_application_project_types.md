@@ -31,7 +31,7 @@ You do not have to be a brand new startup to innovate. We see businesses in indu
   
   Ssshhhhh... Are you needing to define a market which didn’t previously exist?
   
-  Examples: PN Rail, Eagle West - Crane Tools and Quote App, Falcon, Benefic, CLAC Wellness, Training and Career Services, Carsumer, Mystery Shopping
+  Examples: PN Rail, Eagle West - Crane Tools, Benefic, CLAC Training and Career Services, Carsumer, Mystery Shopping
 
 * Systems Integration
 
