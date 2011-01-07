@@ -73,5 +73,5 @@ Alpha
 
 ##### Existing web application re-writes
 
-  Do you need a more agile development experience? Sometimes moving to a more dynamic and agile technology platform is needed to enable a more agile software development environment. This is a large undertaking, that we have experience in navigating successfully.
+  Re-writing an in-production software can be a large undertaking, with its own inherent risks. We have experience in navigating application re-write projects successfully.
 
