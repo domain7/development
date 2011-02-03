@@ -17,7 +17,7 @@ and follows these general lifecycle stages:
   Also, Business Analysis commences such that enough stories are in place
   to keep the development team busy for a full iteration.
 * Iterations 1 - N:
-  Development iterations, two weeks in length.
+  Development iterations, one weeks in length.
   At the beginning of each iteration we hold an iteration planning meeting
   to choose the highest priority functionality to be addressed.
   At the end of each iteration is a walkthrough of what was accomplished,
